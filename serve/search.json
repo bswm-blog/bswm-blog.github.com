@@ -1,0 +1,111 @@
+[
+
+  
+    {
+      "title"			: Hello World,
+      "link"			: "/blog/2014/08/08/hello-world.html",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: Override Author Byline Test Post,
+      "link"			: "/articles/2014/06/19/author-override.html",
+      "excerpt"		: "An article to test overriding the default site author."
+    }
+  
+
+  
+    ,{
+      "title"			: Syntax Highlighting Post,
+      "link"			: "/articles/2013/08/16/code-highlighting-post.html",
+      "excerpt"		: "Demo post displaying the various ways of highlighting code in Markdown."
+    }
+  
+
+  
+    ,{
+      "title"			: Sample Link Post,
+      "link"			: "/articles/2013/08/12/sample-link-post.html",
+      "excerpt"		: "Example and code for using link posts."
+    }
+  
+
+  
+    ,{
+      "title"			: A Post with a Video,
+      "link"			: "/articles/2013/06/25/video-post.html",
+      "excerpt"		: "Custom written post descriptions are the way to go... if you're not lazy."
+    }
+  
+
+  
+    ,{
+      "title"			: Post with Large Feature Image and Text,
+      "link"			: "/articles/2013/05/23/readability-feature-post.html",
+      "excerpt"		: "Custom written post descriptions are the way to go... if you're not lazy."
+    }
+  
+
+  
+    ,{
+      "title"			: A Post with Images,
+      "link"			: "/articles/2013/05/22/sample-post-images.html",
+      "excerpt"		: "Examples and code for displaying images in posts."
+    }
+  
+
+  
+    ,{
+      "title"			: Testing Readability with a Bunch of Text,
+      "link"			: "/articles/2012/05/22/readability-post.html",
+      "excerpt"		: "A ton of text to test readability."
+    }
+  
+
+  
+    ,{
+      "title"			: Sample Post,
+      "link"			: "/articles/2011/03/10/sample-post.html",
+      "excerpt"		: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+    }
+  
+
+
+
+  
+
+  
+    ,{
+      "title"			: About the Jekyll Theme,
+      "link"			: "/about/",
+      "excerpt"		: "So Simple is a responsive Jekyll theme for your words and images."
+    }
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    ,{
+      "title"			: Theme Setup,
+      "link"			: "/theme-setup/",
+      "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
+    }
+  
+
+]
