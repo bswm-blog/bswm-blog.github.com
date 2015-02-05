@@ -27,5 +27,5 @@ So, with the desire to study the Bible with others and make disciples, we began 
 
 While working on a fresh new version built from the ground up we experienced a outage with the released software. After a couple of days trying to resolve the issues we realized that there was much more work to do. We made the difficult decision to temporarily shut down BibleStudyWithMe until the new version is ready. I am blessed by the response from the community. So many heart felt thanks and encouragement to continue our work. 
 
-To the community, thank you for being patient. *You* are what makes this platform a great place to be.
+To the community: thank you for being patient. *You* are what makes this platform a great place to be.
 
