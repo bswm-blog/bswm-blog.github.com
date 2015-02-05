@@ -5,7 +5,7 @@ locale: en_US
 description: Connecting people in Bible study.
 logo: site-logo.png
 search: true
-url: http://bswm-blog.github.io/
+url: http://bswm-blog.github.io
 
 # Jekyll configuration
 
@@ -50,3 +50,10 @@ owner:
     ad-client:
     ad-slot: 
   bing-verify:
+
+authors:
+  doug:
+    name:Doug Mitchell
+    display_name:Doug
+    email:doug.mitchell@biblestudywithme.org
+    

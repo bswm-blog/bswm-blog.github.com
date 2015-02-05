@@ -6,8 +6,6 @@
 - title: Articles
   url: /articles/
 
-- title: RSS
-  url: /feed.xml
-
-- title: Search
+- title: 
   url: /search/
+  icon: fa fa-search
