@@ -30,7 +30,7 @@ $accent-color       : #07397F;
 $link-color         : #222;
 
 $table-border-color           : $border-color;
-$table-border                 : 50px solid $table-border-color;
+$table-border                 : 1px solid $table-border-color;
 $table-background             : $body-color;
 $table-header-color           : lighten($table-background, 10);
 $table-hover-color            : darken($table-background, 2);
