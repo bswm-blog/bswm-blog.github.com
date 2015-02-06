@@ -2,6 +2,7 @@
 layout: post
 title: BibleStudyWithMe Beginnings
 modified: 2015-02-06
+excerpt: The mission of BibleStudyWithMe is, and always will be, to provide a place where people can go to learn more of God and to help others do the same. 
 categories: articles
 tags: [bswm]
 share: true
