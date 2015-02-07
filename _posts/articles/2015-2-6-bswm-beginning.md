@@ -11,7 +11,6 @@ author: doug_mitchell
 
 
 
-####Why Study the Bible
 
 Bible study is the study of God. If you want to know the genuine in order to discern the counterfeit, study the Bible. The Bible testifies of God ([John 5:39](https://www.biblegateway.com/passage/?search=john+5%3A39&version=NKJV)).
 
