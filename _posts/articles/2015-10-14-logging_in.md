@@ -2,7 +2,7 @@
 layout: post
 title: Logging In
 modified: 2015-10-14
-excerpt: The mission of BibleStudyWithMe is, and always will be, to provide a place where people can go to learn more of God and to help others do the same. 
+excerpt: Paul inspires me to go out of my way to meet people where they are. I understand that BibleStudyWithMe will not resonate with everyone  
 categories: articles
 tags: [bswm]
 share: true
